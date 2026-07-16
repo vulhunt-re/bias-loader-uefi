@@ -1,4 +1,4 @@
 [submodule "cxx/UEFITool"]
 	path = cxx/UEFITool
-	url = git@github.com:binarly-io/bias-uefitool.git
+	url = git@github.com:vulhunt-re/bias-uefitool.git
 	branch = master
